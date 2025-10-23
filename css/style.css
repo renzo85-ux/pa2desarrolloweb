@@ -53,6 +53,9 @@
 .iconos a{
     color: white;
 }
+.iconos a:hover{
+    color: #434343;
+}
 .contenido{
     margin-top: 150px;
 }
@@ -161,5 +164,6 @@ footer div a{
     margin-bottom:40px
     
 }
+
 
 
